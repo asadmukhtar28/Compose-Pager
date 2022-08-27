@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Pager</string>
+
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consetur adipiscing elit, do eiusmod tempor didunt ut labore et dolor evenaim. </string>
+</resources>
